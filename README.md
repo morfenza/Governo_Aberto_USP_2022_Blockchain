@@ -5,7 +5,7 @@ Repositório para armazenamento do trabalho da matéria de Governo Aberto, ofere
 Esta matéria foi ministrada no primeiro semestre do ano de 2022, desenvolvido na EACH-USP e orientado pela Prof. Dra. [Gisele da Silva Craveiro](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4767519D0).
 
 Os alunos envolvidos na criação e desenvolvimento deste projeto são;
-* [Anderson Ribeiro] () (Gestão de Políticas Públicas) <br />
+* [Anderson Ribeiro] (Gestão de Políticas Públicas) <br />
 * Ian Lourenço [Lattes TBA] (Sistemas de Informação) <br />
 * [Jou Kuroda]  (http://lattes.cnpq.br/1395883931158215) (Sistemas de Informação) <br />
 * [Kelly Lima] (http://lattes.cnpq.br/8843973340317950) (Gestão de Políticas Públicas) <br />
