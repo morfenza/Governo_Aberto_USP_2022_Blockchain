@@ -2,11 +2,11 @@
 
 Repositório para armazenamento do trabalho da matéria de Governo Aberto, oferecida pela Universidade São Paulo, com o tema "Blockchain como ferramenta para uma política de transparência ativa no setor público."
 
-Esta matéria foi ministrada no primeiro semestre do ano de 2022, desenvolvido na EACH-USP e orientado pela Prof. Dra. [Gisele da Silva Craveiro](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4767519D0).
+Esta matéria foi ministrada no primeiro semestre do ano de 2022, desenvolvido na EACH-USP e orientado pela Prof. Dra. [Gisele da Silva Craveiro](http://lattes.cnpq.br/0361123363747622).
 
 Os alunos envolvidos na criação e desenvolvimento deste projeto são;
 * Anderson Ribeiro [Lattes TBA] (Gestão de Políticas Públicas) <br />
-* Ian Lourenço [Lattes TBA] (Sistemas de Informação) <br />
+* [Ian Lourenço](http://lattes.cnpq.br/4425151150050704) (Sistemas de Informação) <br />
 * [Jou Kuroda](http://lattes.cnpq.br/1395883931158215) (Sistemas de Informação) <br />
 * [Kelly Lima](http://lattes.cnpq.br/8843973340317950) (Gestão de Políticas Públicas) <br />
 * [Mateus Arcanjo](http://lattes.cnpq.br/5165962678900567) (Sistemas de Informação) <br />
